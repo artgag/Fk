@@ -12,3 +12,6 @@
 ###### SCOthman v
 ###### Snapchat v
 
+
+[@fahadaljuwausri](https://twitter.com/fahadaljuwausri)
+[@k7eelan55](https://twitter.com/K7eelan55)
