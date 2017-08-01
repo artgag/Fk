@@ -1,5 +1,5 @@
 # **SpoofSnap & SCOthman**
-#### SpoofSnap > Tweak for Snapchat (Spoof|Views+Screenshots,Additional options)  and More....
+#### SpoofSnap > Tweak for Snapchat (Spoof>Views+Screenshots,Additional options)  and More....
 
 
 
