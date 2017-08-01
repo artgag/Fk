@@ -7,7 +7,7 @@
 ###### > Download IPA file from  [Here ❤️](https://pages.github.com/)
 
 
-### version "الآصدار"
+### version "الأصدار"
 ##### SpoofSnap v
 ##### SCOthman v
 ##### Snapchat v
