@@ -14,9 +14,5 @@
 
 Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)
 
+Twitter [@fahadaljuwausri](https://twitter.com/fahadaljuwausri) [@k7eelan55](https://twitter.com/K7eelan55)
 
-
-
-
-[@fahadaljuwausri](https://twitter.com/fahadaljuwausri)
-[@k7eelan55](https://twitter.com/K7eelan55)
