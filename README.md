@@ -3,8 +3,8 @@
 ##### Sideloading (No Jailbreak) "بدون جيلبريك"
 
 
-### - Download Link "رابط التحميل" 👇
-###### - Download IPA file from  [Here ❤️](https://pages.github.com/)
+###  Download Link "رابط التحميل" 👇
+ - Download IPA file from  [Here ❤️](https://pages.github.com/)
 
 
 ### Version "الأصدار" 👇
