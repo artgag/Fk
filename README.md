@@ -3,11 +3,11 @@
 
 
 
-### Download Link "رابط التحميل"
+### Download Link "رابط التحميل" 👇
 ###### > Download IPA file from  [Here ❤️](https://pages.github.com/)
 
 
-### Version "الأصدار"
+### Version "الأصدار" 👇
 ###### SpoofSnap--->v1.1
 ###### SCOthman--->v10.7-3
 ###### Snapchat--->v10.13.2.0
