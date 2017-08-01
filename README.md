@@ -1,2 +1,2 @@
-#SpoofSnap & #scothmand
+SpoofSnap & scothmand
 
