@@ -8,7 +8,7 @@
 
 
 ### Version "الأصدار"
-###### **SpoofSnap v**
+###### SpoofSnap v
 ###### SCOthman v
 ###### Snapchat v
 
