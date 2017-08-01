@@ -1,6 +1,6 @@
 ## **SpoofSnap & SCOthman**
 ###### Updated On 2017/8/1
-- SpoofSnap > Tweak for Snapchat (Spoof>Views+Screenshots,Additional options)  and More....
+- SpoofSnap > Tweak for Snapchat (Spoof = Views+Screenshots,Additional options)  and More....
 - Sideloading (No Jailbreak) "بدون جيلبريك"
 
 
