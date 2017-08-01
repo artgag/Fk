@@ -12,7 +12,7 @@
 ###### SCOthman v10.7-3
 ###### Snapchat v10.13.2.0
 
-Donate via paypal "دعم وتبرع" [Paypal](https://www.paypal.me/Spoofsnap)
+Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)
 
 
 
