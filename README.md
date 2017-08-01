@@ -8,9 +8,9 @@
 
 
 ### Version "الأصدار" 👇
-- SpoofSnap--->v1.1
-- SCOthman--->v10.7-3
-- Snapchat--->v10.13.2.0
+- SpoofSnap--->*v1.1*
+- SCOthman--->*v10.7-3*
+- Snapchat--->*v10.13.2.0*
 
 - **Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)**
 
