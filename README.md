@@ -1,11 +1,11 @@
 ## **SpoofSnap**
 ###### Updated On 2017/8/1
-- SpoofSnap With SCOthman, Sideloading **(No Jailbreak) "بدون جيلبريك"**
+- **SpoofSnap With SCOthman, Sideloading (No Jailbreak) "بدون جيلبريك"**
 
 
 
 ###  Download Link "رابط التحميل" 👇
- - Download IPA file from  [Here ❤️](https://pages.github.com/)
+ - Download(SCO&Spoof) IPA file from  [Here ❤️](https://pages.github.com/)
 
 
 ### Version "الأصدار" 👇
