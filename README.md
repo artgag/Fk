@@ -5,7 +5,7 @@
 
 
 ###  Download Link "رابط التحميل" 👇
- - Download **(SCO&Spoof)** IPA file from  [Here ❤️](https://pages.github.com/)
+ - Download (**SCO&Spoof**) IPA file from  [Here ❤️](https://pages.github.com/)
 
 
 ### Version "الأصدار" 👇
