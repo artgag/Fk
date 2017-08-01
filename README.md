@@ -8,9 +8,9 @@
 
 
 ### Version "الأصدار"
-###### SpoofSnap v
-###### SCOthman v
-###### Snapchat v
+###### SpoofSnap v1.1
+###### SCOthman v10.7-3
+###### Snapchat v10.13.2.0
 
 
 [@fahadaljuwausri](https://twitter.com/fahadaljuwausri)
