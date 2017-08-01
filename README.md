@@ -4,5 +4,6 @@
 
 ## download Links
 
-# . ### Download IPA file from  [GitHub Pages](https://pages.github.com/).
+# . 
+### Download IPA file from  [Here ❤️](https://pages.github.com/).
 
