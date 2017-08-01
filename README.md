@@ -2,7 +2,7 @@
 ###### Updated On 2017/8/1
 - SpoofSnap > Tweak for Snapchat **(Spoof Views+Screenshots,Additional options)**  and More....
 - SCOthman > Add features to the Snap application **(Save Snaps Stories,Upload Photo & Video of Gallery)** and more
-- Sideloading (No Jailbreak) "بدون جيلبريك"
+- Sideloading **(No Jailbreak) "بدون جيلبريك"**
 
 
 ###  Download Link "رابط التحميل" 👇
