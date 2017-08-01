@@ -8,7 +8,7 @@
 
 
 ### Version "الأصدار"
-###### SpoofSnap--->v1.1
+###### SpoofSnap--->V1.1
 ###### SCOthman--->v10.7-3
 ###### Snapchat--->v10.13.2.0
 
