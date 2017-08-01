@@ -1,5 +1,5 @@
 # **SpoofSnap & SCOthman**
-#### Tweak for Snapchat
+#### SpoofSnap > Tweak for Snapchat (Spoof,Additional options)
 
 
 
