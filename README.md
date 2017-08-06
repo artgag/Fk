@@ -13,6 +13,9 @@
 - SCOthman---> **v10.7-6**
 - Snapchat---> **v10.14.0.0**
 
+###  Download Older Versions "تحميل الأصدارات القديمة" 👇
+ - 👉  [Here ❤️](https://github.com/fahadaljuwausri/SpoofSnap/blob/master/OlderVersions.md)
+ 
  **Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)**
 
 **Twitter > [@fahadaljuwausri](https://twitter.com/fahadaljuwausri) [@k7eelan55](https://twitter.com/K7eelan55)**
