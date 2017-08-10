@@ -1,17 +1,17 @@
 ## **SpoofSnap**
-###### Updated On 2017/8/4
+###### Updated On 2017/8/10
 - **SpoofSnap With SCOthman, Sideloading (No Jailbreak) "بدون جيلبريك"**
 
 
 
 ###  Download Link "رابط التحميل" 👇
- - Download (**SCO&Spoof**) IPA file from  [Here ❤️](https://mega.nz/#!JFcSUBgQ!_U1B1wzGJPRIyXPwUxgZzc13TsxLPVrYo7XiPpfAkog)
+ - Download (**SCO&Spoof**) IPA file from  [Here ❤️](https://mega.nz/#!4N1XRDLJ!PBCH1P7F7HKyShwwx38y5nSVUEw-iJWlZn3SfZaj_uk)
 
 
 ### Version "الأصدار" 👇
-- SpoofSnap---> **v1.2**
-- SCOthman---> **v10.7-6**
-- Snapchat---> **v10.14.0.0**
+- SpoofSnap---> **v1.3**
+- SCOthman---> **v10.7-7**
+- Snapchat---> **v10.14.1.0**
 
 ###  Download Older Versions "تحميل الأصدارات القديمة" 👇
  - 👉  [Here ❤️](https://github.com/fahadaljuwausri/SpoofSnap/blob/master/OlderVersions.md)
